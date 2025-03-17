@@ -183,4 +183,3 @@ Und so können Sie den Container dann starten:
    ```bash
 docker run yourusername/myrepo:latest
    ```
-
