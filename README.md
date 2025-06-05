@@ -47,6 +47,9 @@ Vergessen Sie nicht am Ende des Tutorials die Ressourcen wieder zu bereinigen, d
 
 **Aufgabe 2 - Eine Python-App mit Docker containerisieren**
 
+**Hinweis:** Diese Aufgabe ist aus Nane Kratzke, Cloud-Native
+Computing, Hanser Verlag, 2022, [Cloud-native Computing](https://cloud-native-computing.de) 
+
 Klonen Sie das Repository zu dieser Übung.  
 
 Erstellen Sie einen Ordner mit folgenden Dateien:
